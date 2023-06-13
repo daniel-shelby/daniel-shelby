@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m good with Laravel
 - 💞️ I’m good with MySQL, MariaDB and Postgres
+- 💞️ I’m good Bootstrap, CSS and SASS
 - 🌱 I’m currently exploring and learning JS framework.
 
 <!---
